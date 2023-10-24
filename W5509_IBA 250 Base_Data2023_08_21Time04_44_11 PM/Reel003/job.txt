@@ -1,0 +1,35 @@
+::Date=2023_08_21::Hour=07_07_21 PM:::
+::Cilinder Size=490.30::Web Width=1391.21::Printing Width=1290.00::Flat Number=6:::
+::Operator Name=Arslan::PDF Name=W5509.pdf:::
+::PS=0.197:::
+::LP1=35.52:::
+::LP2=1352.73:::
+::Web Direction=Down::Turning Bar=Straight::Repetition Number=1::Uniform Color Fill=False::Automatic Register=False::Automatic Register Small Mark=False:::
+::Spot sensitivity=6::Color sensitivity=10::Blade sensitivity=6::Blade lenght=6::Register sensitivity=8::Missing ink sensitivity=10::Barcode sensitivity=0::Meters=0.000::Lap=0::Speed=300::Hour=07_07_21 PM::DetectionSystem=Lynex:::
+::Spot sensitivity=0::Color sensitivity=0::Blade sensitivity=0::Blade lenght=0::Register sensitivity=0::Missing ink sensitivity=0::Barcode sensitivity=0::Meters=0.000::Lap=0::Speed=300::Hour=07_07_21 PM::DetectionSystem=Matrix:::
+::Defect Test suspend at=10.000::Meters=10.000::Lap=20::Speed=300::Hour=07_07_23 PM:::
+::Defect Test start at=10.000::Meters=10.000::Lap=20::Speed=300::Hour=07_07_23 PM:::
+::Deactivated allert for=FiducialLostSignal::Meters=129.143::Lap=263::Speed=300::Hour=07_07_47 PM::DetectionSystem=Progrex:::
+::tappo=::Meters=1129.000::Lap=2303::Speed=612::Hour=07_11_07 PM:::
+::Type=Spot::WebEdge=35.52::X=543.13::Y=373.87::Width=32.70::Height=32.70::Size=3.53::Image=Spot71.bmp::Meters=1668.685::Lap=3403::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_12_55 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Blade::WebEdge=35.52::X=1250.56::Y=446.17::Width=32.70::Height=32.70::Size=32.70::Image=Blade2.bmp::Meters=2147.218::Lap=4379::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_14_31 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Blade::WebEdge=35.52::X=1250.36::Y=446.37::Width=32.70::Height=32.70::Size=32.70::Image=Blade3.bmp::Meters=2220.272::Lap=4528::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_14_45 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Blade::WebEdge=35.52::X=1250.36::Y=445.78::Width=32.70::Height=32.70::Size=32.70::Image=Blade4.bmp::Meters=2573.779::Lap=5249::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_15_56 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::tappo=::Meters=3574.000::Lap=7289::Speed=612::Hour=07_19_16 PM:::
+::Type=Spot::WebEdge=35.52::X=406.21::Y=6.07::Width=32.70::Height=32.70::Size=4.07::Image=Spot72.bmp::Meters=3626.453::Lap=7396::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_19_27 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=433.01::Y=257.45::Width=32.70::Height=32.70::Size=5.01::Image=Spot73.bmp::Meters=3626.943::Lap=7397::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_19_27 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=383.95::Y=367.57::Width=32.70::Height=32.70::Size=5.47::Image=Spot75.bmp::Meters=3627.433::Lap=7398::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_19_27 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=448.57::Y=24.40::Width=32.70::Height=32.70::Size=10.56::Image=Spot74.bmp::Meters=3627.433::Lap=7398::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_19_27 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=461.77::Y=351.02::Width=32.70::Height=32.70::Size=11.60::Image=Spot76.bmp::Meters=3802.471::Lap=7755::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_20_02 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=754.31::Y=139.25::Width=32.70::Height=32.70::Size=4.07::Image=Spot77.bmp::Meters=4528.605::Lap=9236::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_22_27 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=294.32::Y=1.74::Width=32.70::Height=32.70::Size=3.30::Image=Spot78.bmp::Meters=4988.016::Lap=10173::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_23_59 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=430.64::Y=195.19::Width=32.70::Height=32.70::Size=5.70::Image=Spot79.bmp::Meters=5167.956::Lap=10540::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_24_35 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Blade::WebEdge=35.52::X=1250.56::Y=446.57::Width=32.70::Height=32.70::Size=32.70::Image=Blade5.bmp::Meters=5388.101::Lap=10989::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_25_19 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Blade::WebEdge=35.52::X=1250.56::Y=445.78::Width=32.70::Height=32.70::Size=32.70::Image=Blade6.bmp::Meters=5696.990::Lap=11619::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_26_21 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=284.07::Y=358.51::Width=32.70::Height=32.70::Size=3.14::Image=Spot80.bmp::Meters=6366.249::Lap=12984::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_28_35 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=59.30::Y=169.98::Width=32.70::Height=32.70::Size=29.61::Image=Spot81.bmp::Meters=6863.904::Lap=13999::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_30_14 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=102.24::Y=17.30::Width=32.70::Height=32.70::Size=99.62::Image=Spot82.bmp::Meters=7506.687::Lap=15310::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_32_23 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Spot::WebEdge=35.52::X=81.36::Y=162.49::Width=32.70::Height=32.70::Size=55.23::Image=Spot83.bmp::Meters=7506.687::Lap=15310::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_32_23 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Total Meter=7532::Meters=7532::Lap=15359::Speed=300::Hour=07_32_28 PM::ProcheckCode=0::EasyTrackReel=0::Reliable=false::DetectionSystem=Progrex:::
+::Type=Spot::WebEdge=35.52::X=1299.22::Y=281.68::Width=32.70::Height=32.70::Size=21.27::Image=Spot84.bmp::Meters=7530.221::Lap=15358::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_32_28 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
+::Type=Blade::WebEdge=35.52::X=1299.81::Y=290.35::Width=32.70::Height=32.70::Size=32.70::Image=Blade7.bmp::Meters=7530.221::Lap=15358::ProcheckCode=0::EasyTrackReel=4::Reliable=False::Speed=300::Hour=07_32_28 PM::DetectionSystem=Lynex::MasterImage=Job1.bmp:::
